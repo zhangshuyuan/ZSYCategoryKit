@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZSYCategoryKit_Example' do
+  pod 'ZSYCategoryKit', :path => '../'
+
+  target 'ZSYCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
