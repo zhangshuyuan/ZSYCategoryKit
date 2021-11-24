@@ -1,0 +1,22 @@
+{
+  "name": "ZSYCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZSYCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/961048968@qq.com/ZSYCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "961048968@qq.com": "zhangshuyuan@hachismart.com"
+  },
+  "source": {
+    "git": "https://github.com/961048968@qq.com/ZSYCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZSYCategoryKit/Classes/**/*"
+}

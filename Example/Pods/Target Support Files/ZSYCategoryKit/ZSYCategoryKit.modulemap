@@ -1,0 +1,6 @@
+framework module ZSYCategoryKit {
+  umbrella header "ZSYCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

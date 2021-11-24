@@ -1,0 +1,16 @@
+PODS:
+  - ZSYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - ZSYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZSYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZSYCategoryKit: 08afb9f7a5970fb66b60c4527292a5ac436c74d1
+
+PODFILE CHECKSUM: 83007cafd47b99b01cbf28fe4d46d826c8009641
+
+COCOAPODS: 1.9.3
